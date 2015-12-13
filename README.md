@@ -24,3 +24,5 @@ to accesss the app.
 
 
 # This app follows the MVC architecture as all the database files are in model.py , all the controller files are in views.py file and all the view i.e. templates are in the templates folder.
+
+# This app uses github - REST API.
